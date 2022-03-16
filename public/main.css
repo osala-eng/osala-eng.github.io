@@ -1,0 +1,80 @@
+body{
+    background-color: rgb(0, 0, 0);
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.checked {
+    color: orange;
+  }
+
+.mainrow{
+    width: 330px;
+}
+.bio{
+    display: contents;
+}
+.place_holder{
+    height: 100%;
+}
+.h_w{
+    justify-content: left;
+}
+#profile{
+    width: 200px;
+    height: 200px;
+}
+article{
+    font-size: large;
+}
+
+aside{
+    float: right;
+    padding-left: 20px;
+    border-left: 2px;
+    padding-right: 20px;
+    border-left-color: black;
+}
+.tbstars{
+    width: 110px;
+}
+.light_txt{
+    color: rgba(46, 48, 49, 0.856);
+}
+#Headinfo{
+    background-color: rgba(56, 52, 52, 0.726);
+    padding-left: 10px;
+}
+#Headinfo h1{
+    color: azure;
+    padding-top: 10px;
+    margin: 0%;
+    font-size: xx-large;
+}
+#Headinfo h2{
+    color: azure;
+}
+#Headinfo table{
+    color: azure;
+    padding-bottom: 10px;
+}
+#page{
+    background-color: aliceblue;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+#Education{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    
+}
+#Employment{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    
+}
+#References{
+    padding-left: 20px;
+}
