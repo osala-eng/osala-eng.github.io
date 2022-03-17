@@ -19,6 +19,10 @@ body{
 .h_w{
     justify-content: left;
 }
+.iconx{
+    color: red;
+    width: 25px;
+}
 #profile{
     width: 200px;
     height: 200px;
